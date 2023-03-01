@@ -1,0 +1,96 @@
+```metadata
+title: >-
+  ![homebrew mug](http://i.imgur.com/hMna6G0.png)
+  {position:absolute,top:50px,right:30px,width:280px}
+description: ''
+tags: []
+systems: []
+renderer: V3
+theme: 5ePHB
+
+```
+
+```css
+undefined
+```
+
+![homebrew mug](http://i.imgur.com/hMna6G0.png) {position:absolute,top:50px,right:30px,width:280px}
+
+{{artist,top:80px,right:30px
+##### Homebrew Mug
+[naturalcrit](https://homebrew.naturalcrit.com)
+}}<style>
+  .page#p1{ text-align:center; counter-increment: none; }
+  .page#p1:after{ display:none; }
+  .page:nth-child(2n) .pageNumber { left: inherit !important; right: 2px !important; }
+  .page:nth-child(2n+1) .pageNumber { right: inherit !important; left: 2px !important; }
+  .page:nth-child(2n)::after { transform: scaleX(1); }
+  .page:nth-child(2n+1)::after { transform: scaleX(-1); }
+  .page:nth-child(2n) .footnote { left: inherit; text-align: right; }
+  .page:nth-child(2n+1) .footnote { left: 80px; text-align: left; }
+</style>
+
+{{margin-top:225px}}
+
+# The book of Zenonism 
+
+{{margin-top:25px}}
+
+{{wide
+##### Your guide for emmbeding a fun, inspireing and unconventional fantasy philosophy-religion into your D&D campaign 
+}}
+
+\page
+
+# introduction
+
+A dungeon master once told me, that every charachter in dungeons and dragons is a realization of a player's fantasy. Zenoninsm has started and my own escapism. 
+I'm an married and a father to two --- load of day to day escapism from borgamnot ---
+
+I wanted to think, and I wanted to have uncontrolled, be impolsive have fun and wonder between me and myself what is wrong with that
+
+this is not a proposition for somthing to belive in. it is just escapism and a good and fun one, one that role-playing and dnd can provide.
+
+It started with Derion III, and continued as thoughts that evolved to a full phylosohpy perspective and a religion a fictional fun charechter cna follow.
+
+at last it bacame somthing that I thought was worth to share, somthing that can help other achive escapism, get insighits on themselves, add unique flavour to thier charechters and campaings and also have fun.
+
+This book conatins the main principles of Zenonism as a religion-phylosophical perspective, so that the reader could get what this is all about. A guide on my thoughts on how Zenonism can participate in a campaign or a world setting. And some more concrete matirial that I have made as part of my planned campaigns and charechters I had in mind.
+
+would love to recive feedback on this...
+
+\page
+
+# Fondemental Zenonsim
+
+Have you ever wondered what is time exactly?
+A continuous linear thread of happenings maybe just a series of events linked to one another by our imagination alone?
+
+This question has intrieged humanity form the very beggining of history. It has been addressed by artists of all kinds, philosophers and sientists. Every man who expirienced a Deja Vu has probably asked himslef at one point or another, What is this this thing, that I call time? 
+
+There is really no definite answer. Even if there was, it is still a wonderful playground for the creation of  
+A series of events 
+
+
+
+
+
+ddd
+
+
+dd
+
+dd
+
+ddd
+d
+
+d
+
+
+  
+
+
+## what is Zenosnism?
+
+Zenonism is an belief that time is a sequance of 
